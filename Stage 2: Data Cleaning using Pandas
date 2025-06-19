@@ -1,0 +1,15 @@
+#Clean data is essential for accurate insights
+#Ensures no garbage goes into visualization
+
+
+Loaded the dataset using pandas.read_csv()
+
+Checked for missing values using isnull().sum()
+
+Dropped or filled nulls (fillna(), dropna())
+
+Removed invalid entries like negative quantity or price
+
+Created a new column: TotalPrice = Quantity × UnitPrice
+
+Removed duplicates
