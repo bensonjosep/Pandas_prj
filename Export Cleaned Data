@@ -1,0 +1,3 @@
+Saved the cleaned DataFrame to cleaned_data.csv using to_csv()
+
+To use the cleaned version for reporting and visualization tools like Power BI
